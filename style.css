@@ -37,10 +37,6 @@
     width: 450px;
 }
 
-.gallery:hover{
-    border:0 px solid #777;
-}
-
 .gallery img{
     width: 100%;
     height: auto;
